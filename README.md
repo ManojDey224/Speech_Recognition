@@ -49,7 +49,9 @@ The provided Python script (`speech_recognition.py`) includes examples of the fo
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/AssemblyAI-Speech-Recognition-Demo.git
+
 2.Navigate to the directory:
 cd AssemblyAI-Speech-Recognition-Demo
+
 3.Execute the script:
 python speech_recognition.py
